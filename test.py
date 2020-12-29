@@ -80,11 +80,7 @@ def evaluate(respth='./res/test_res', dspth='./data', cp='model_final_diss.pth')
 
 
 
-
-
-
-
 if __name__ == "__main__":
-    evaluate(dspth='/home/zll/data/CelebAMask-HQ/test-img', cp='79999_iter.pth')
+    evaluate(dspth='./data/CelebAMask-HQ/test-img', cp='4999_iter.pth')
 
 

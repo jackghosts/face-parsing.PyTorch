@@ -1,3 +1,7 @@
+data/
+res/
+.vscode/
+
 # Images
 *.jpg
 *.png
